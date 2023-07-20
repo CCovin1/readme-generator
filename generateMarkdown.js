@@ -7,3 +7,12 @@ function renderLicenseBadge(license) {
       // Add more license badges here as needed
     };
 
+    // Check if the provided license exists in the badges object
+    if (badges[license]) {
+      return badges[license];
+    }
+  }
+
+  // If no license or invalid license is provided, return an empty string
+  return '';
+}
