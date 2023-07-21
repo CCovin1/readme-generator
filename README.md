@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a application that will allow the user to generate a professional formatted README.md file
+This is a application that will allow the user to generate a professional formatted README.md file. You can see a video of the functionality here: https://watch.screencastify.com/v/2eQHZQmgy0AnxutRLUCj
 
 ## Table of Contents
 
@@ -37,4 +37,4 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 
 ## Contact
 
-If you have any questions or concerns about this project, you can reach me at If you have any questions or concerns about this project, you can reach me at https://github.com/CCovin1.
+If you have any questions or concerns about this project, you can reach me at If you have any questions or concerns about this project, you can reach me at https://github.com/CCovin1.ere
